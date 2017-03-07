@@ -1,0 +1,168 @@
+/*ENGLISH LANGUAGE*/
+@font-face {
+    font-family: 'RobotoRegular';
+    src: url('../font/Roboto-Regular-webfont.eot');
+    src: url('../font/Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/Roboto-Regular-webfont.woff') format('woff'),
+         url('../font/Roboto-Regular-webfont.ttf') format('truetype'),
+         url('../font/Roboto-Regular-webfont.svg#RobotoRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'RobotoBold';
+    src: url('../font/Roboto-Bold-webfont.eot');
+    src: url('../font/Roboto-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/Roboto-Bold-webfont.woff') format('woff'),
+         url('../font/Roboto-Bold-webfont.ttf') format('truetype'),
+         url('../font/Roboto-Bold-webfont.svg#RobotoBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'RobotoThin';
+    src: url('../font/Roboto-Thin-webfont.eot');
+    src: url('../font/Roboto-Thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/Roboto-Thin-webfont.woff') format('woff'),
+         url('../font/Roboto-Thin-webfont.ttf') format('truetype'),
+         url('../font/Roboto-Thin-webfont.svg#RobotoThin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'RobotoLight';
+    src: url('../font/Roboto-Light-webfont.eot');
+    src: url('../font/Roboto-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/Roboto-Light-webfont.woff') format('woff'),
+         url('../font/Roboto-Light-webfont.ttf') format('truetype'),
+         url('../font/Roboto-Light-webfont.svg#RobotoLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'RobotoMedium';
+    src: url('../font/Roboto-Medium-webfont.eot');
+    src: url('../font/Roboto-Medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/Roboto-Medium-webfont.woff') format('woff'),
+         url('../font/Roboto-Medium-webfont.ttf') format('truetype'),
+         url('../font/Roboto-Medium-webfont.svg#RobotoMedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'RobotoBlack';
+    src: url('../font/Roboto-Black-webfont.eot');
+    src: url('../font/Roboto-Black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/Roboto-Black-webfont.woff') format('woff'),
+         url('../font/Roboto-Black-webfont.ttf') format('truetype'),
+         url('../font/Roboto-Black-webfont.svg#RobotoBlack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+/*THAI LANGUAGE*/
+@font-face {
+    font-family: 'db_helvethaica_x75_bd';
+    src: url('../font/db_helvethaica_x_bd_v3.2-webfont.eot');
+    src: url('../font/db_helvethaica_x_bd_v3.2-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/db_helvethaica_x_bd_v3.2-webfont.woff') format('woff'),
+         url('../font/db_helvethaica_x_bd_v3.2-webfont.ttf') format('truetype'),
+         url('../font/db_helvethaica_x_bd_v3.2-webfont.svg#db_helvethaica_x75_bd') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'db_helvethaica_x45_li';
+    src: url('../font/db_helvethaica_x_li_v3.2-webfont.eot');
+    src: url('../font/db_helvethaica_x_li_v3.2-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/db_helvethaica_x_li_v3.2-webfont.woff') format('woff'),
+         url('../font/db_helvethaica_x_li_v3.2-webfont.ttf') format('truetype'),
+         url('../font/db_helvethaica_x_li_v3.2-webfont.svg#db_helvethaica_x45_li') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'db_helvethaica_x65_med';
+    src: url('../font/db_helvethaica_x_med_v3.2-webfont.eot');
+    src: url('../font/db_helvethaica_x_med_v3.2-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/db_helvethaica_x_med_v3.2-webfont.woff') format('woff'),
+         url('../font/db_helvethaica_x_med_v3.2-webfont.ttf') format('truetype'),
+         url('../font/db_helvethaica_x_med_v3.2-webfont.svg#db_helvethaica_x65_med') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'db_helvethaica_x55_regular';
+    src: url('../font/db_helvethaica_x_v3.2-webfont.eot');
+    src: url('../font/db_helvethaica_x_v3.2-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/db_helvethaica_x_v3.2-webfont.woff') format('woff'),
+         url('../font/db_helvethaica_x_v3.2-webfont.ttf') format('truetype'),
+         url('../font/db_helvethaica_x_v3.2-webfont.svg#db_helvethaica_x55_regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+/*TITLE ENG FONT*/ 
+@font-face {
+    font-family: 'ubuntubold';
+    src: url('../font/ubuntu-b-webfont.eot');
+    src: url('../font/ubuntu-b-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/ubuntu-b-webfont.woff') format('woff'),
+         url('../font/ubuntu-b-webfont.ttf') format('truetype'),
+         url('../font/ubuntu-b-webfont.svg#ubuntubold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ubuntulight';
+    src: url('../font/ubuntu-l-webfont.eot');
+    src: url('../font/ubuntu-l-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/ubuntu-l-webfont.woff') format('woff'),
+         url('../font/ubuntu-l-webfont.ttf') format('truetype'),
+         url('../font/ubuntu-l-webfont.svg#ubuntulight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ubuntumedium';
+    src: url('../font/ubuntu-m-webfont.eot');
+    src: url('../font/ubuntu-m-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/ubuntu-m-webfont.woff') format('woff'),
+         url('../font/ubuntu-m-webfont.ttf') format('truetype'),
+         url('../font/ubuntu-m-webfont.svg#ubuntumedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ubunturegular';
+    src: url('../font/ubuntu-r-webfont.eot');
+    src: url('../font/ubuntu-r-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/ubuntu-r-webfont.woff') format('woff'),
+         url('../font/ubuntu-r-webfont.ttf') format('truetype'),
+         url('../font/ubuntu-r-webfont.svg#ubunturegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
